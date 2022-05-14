@@ -1,5 +1,4 @@
-# cpsc-2650-assignment-01
-
+# Assignment 1 (5 points)
 - Create a new Express application calculator.
 - Add a route for /add.
 - On the /add page:
